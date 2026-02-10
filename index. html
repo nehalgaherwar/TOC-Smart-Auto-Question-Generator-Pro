@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TOC Auto Question Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>🔥 Theory of Computing – Auto Question Generator</h1>
+
+    <div class="controls">
+        <select id="topic">
+            <option value="dfa">DFA</option>
+            <option value="nfa">NFA</option>
+            <option value="cfg">CFG</option>
+            <option value="pda">PDA</option>
+            <option value="tm">Turing Machine</option>
+            <option value="pumping">Pumping Lemma</option>
+        </select>
+
+        <select id="difficulty">
+            <option value="easy">Easy</option>
+            <option value="medium">Medium</option>
+            <option value="hard">Hard</option>
+        </select>
+
+        <button onclick="generateQuestion()">Generate Question</button>
+    </div>
+
+    <div id="questionBox" class="question-box"></div>
+
+    <div id="timer">⏳ Time Left: <span id="time">30</span>s</div>
+
+    <button onclick="checkAnswer()">Submit Answer</button>
+    <button onclick="downloadPDF()">Download as PDF</button>
+
+    <div id="result"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
