@@ -6,14 +6,14 @@ This project dynamically generates questions based on selected topic and difficu
 ---
 
 # 📌 Features
-✅ Topic Selection (DFA, NFA, CFG, PDA, Turing Machine, Pumping Lemma)
-✅ Difficulty Levels (Easy, Medium, Hard)
-✅ Auto Question Generation
-✅ Countdown Timer
-✅ Answer Submission System
-✅ PDF Download Option
-✅ Clean and Responsive UI
-✅ Fully Frontend Based (HTML, CSS, JavaScript)
+✅ Topic Selection (DFA, NFA, CFG, PDA, Turing Machine, Pumping Lemma)                 
+✅ Difficulty Levels (Easy, Medium, Hard)                      
+✅ Auto Question Generation.                                    
+✅ Countdown Timer.                                           
+✅ Answer Submission System.                                  
+✅ PDF Download Option.                                    
+✅ Clean and Responsive UI.                                                              
+✅ Fully Frontend Based (HTML, CSS, JavaScript)                         
 
 ---
 
