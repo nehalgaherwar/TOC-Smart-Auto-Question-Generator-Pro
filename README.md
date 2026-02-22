@@ -21,10 +21,10 @@ This project dynamically generates questions based on selected topic and difficu
 
 TOC-Auto-Question-Generator/
 │
-├── index.html      # Main HTML file
-├── style.css       # Styling file
-├── script.js       # JavaScript logic
-└── README.md       # Project documentation
+├── index.html      # Main HTML file                             
+├── style.css       # Styling file.                                    
+├── script.js       # JavaScript logic.                                 
+└── README.md       # Project documentation.                                           
 
 ---
 
