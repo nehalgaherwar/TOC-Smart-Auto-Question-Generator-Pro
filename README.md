@@ -19,8 +19,8 @@ This project dynamically generates questions based on selected topic and difficu
 
 # 📂 Project Structure
 
-TOC-Auto-Question-Generator/
-│
+TOC-Auto-Question-Generator/                                 
+│                                                            
 ├── index.html      # Main HTML file                             
 ├── style.css       # Styling file.                                    
 ├── script.js       # JavaScript logic.                                 
