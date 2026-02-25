@@ -37,7 +37,7 @@ TOC-Auto-Question-Generator/
 Download or Clone the Repository
 Copy code
 
-git clone https://github.com/your-username/TOC-Auto-Question-Generator.git
+git clone https://github.com/nehalgaherwar/TOC-Auto-Question-Generator.git
 Open the folder.
 Double click index.html
 OR open with Live Server in VS Code.
