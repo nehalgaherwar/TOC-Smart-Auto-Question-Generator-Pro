@@ -7,7 +7,7 @@ This project dynamically generates questions based on selected topic and difficu
 
 # Project live at :
 https://nehalgaherwar.github.io/TOC-Smart-Auto-Question-Generator-Pro/                                   
- Go and enjoy with the. learning TOC Questions
+ Go and enjoy with the. learning TOC Questions with funny way
 ---
 
 # 📌 Features
