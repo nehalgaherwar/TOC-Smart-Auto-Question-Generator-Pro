@@ -7,7 +7,7 @@ This project dynamically generates questions based on selected topic and difficu
 
 # Project live at :
 https://nehalgaherwar.github.io/TOC-Smart-Auto-Question-Generator-Pro/                                   
- Go and enjoy with the. learning TOC Questions with funny way
+ Go and enjoy with the learning TOC Questions with funny way
 ---
 
 # 📌 Features
@@ -48,6 +48,7 @@ That’s it 🎉
 # 🧠 Topics Covered
 Deterministic Finite Automata (DFA)
 Non-Deterministic Finite Automata (NFA)
+Epsilon Non-Deterministic Finite Automata (E-NFA)
 Context Free Grammar (CFG)
 Pushdown Automata (PDA)
 Turing Machine
