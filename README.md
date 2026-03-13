@@ -1,5 +1,4 @@
-# TOC-Smart-Auto-Question-Generator-Pro
-UPFATING...............**New Questions added. soon....**                                   
+# TOC-Smart-Auto-Question-Generator-Pro                                
 🔥 Theory of Computing – Auto Question Generator
 An advanced web-based Auto Question Generator for Theory of Computing (TOC).
 This project dynamically generates questions based on selected topic and difficulty level, includes a timer system, answer validation, and PDF export functionality.
