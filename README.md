@@ -29,7 +29,7 @@ TOC-Auto-Question-Generator/
 ├── index.html      # Main HTML file                             
 ├── style.css       # Styling file.                                    
 ├── script.js       # JavaScript logic.                                 
-└── README.md       # Project documentation.                                           
+└── README.md       # Project documentation and live link.                                            
 
 ---
 
